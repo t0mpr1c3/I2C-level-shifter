@@ -8,13 +8,13 @@
 </settings>
 <grid distance="0.0125" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.00625" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="14" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
@@ -157,7 +157,7 @@
 <wire x1="0" y1="11.7475" x2="23.495" y2="11.7475" width="0" layer="49"/>
 <text x="11.43" y="14.9225" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">Smoke</text>
 <text x="16.8275" y="4.445" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">CC BY-SA 3.0</text>
-<text x="17.145" y="10.4775" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">C Shifter IS01</text>
+<text x="17.145" y="10.4775" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">C Shifter IL01</text>
 <rectangle x1="11.75075" y1="16.98985" x2="12.03015" y2="17.00255" layer="22" rot="R180"/>
 <rectangle x1="11.62375" y1="17.00255" x2="12.15715" y2="17.01525" layer="22" rot="R180"/>
 <rectangle x1="11.53485" y1="17.01525" x2="12.24605" y2="17.02795" layer="22" rot="R180"/>
